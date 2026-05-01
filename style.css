@@ -251,6 +251,10 @@ nav {
           padding: 20px;
      }
 
+     .header-section{
+          margin: 0;
+     }
+
      .hero .hero-left,
      .hero-right {
           width: 100%;
